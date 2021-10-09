@@ -1,7 +1,8 @@
-# Market-list React template
+# Dexie playground app
 
-To use this template from GitHub CLI, run the following command:
+Simple market list app for learning Dexie.
 
-```
-gh repo create name_of_your_app --template ebenezerdon/market-list-template
-```
+References:
+
+* [Using Dexie.js in React apps for offline data storage](https://blog.logrocket.com/dexie-js-indexeddb-react-apps-offline-data-storage/)
+* [Dexie](https://dexie.org/)
